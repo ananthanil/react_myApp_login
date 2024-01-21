@@ -1,12 +1,13 @@
 import React from 'react';
 
 function Rtext(props) {
+    const {type,style,placeholder}=props
     return (
         <div>
         <input
-        type={props.type}
-        style={props.style}
-        placeholder={props.placeholder}
+        type={type}
+        style={style}
+        placeholder={placeholder}
         />
         </div>
     );
