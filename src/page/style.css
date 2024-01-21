@@ -1,0 +1,12 @@
+.App {
+    position: relative;
+    background-color: #2f4550;
+    top: 150px;
+    left: 25%;
+    text-align: center;
+    border-style: none;
+    width: 45%;
+    gap: 25px;
+    padding-bottom: 65px;
+    padding-top: 3px;
+  }
